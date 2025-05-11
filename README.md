@@ -1,12 +1,76 @@
-# React + Vite
+# Credex Web Development Internship Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern landing page for Credex's web development internship program built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live site: [Credex Internship Landing Page](https://softsell07.vercel.app/)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design that works on all devices
+- Modern and clean UI with smooth animations
+- Interactive components including:
+  - Application form
+  - Live chat widget
+  - Testimonials
+  - Team showcase
+  - Contact information
+
+## 🛠️ Built With
+
+- React
+- Tailwind CSS
+- Lucide React Icons
+- Vite
+
+## 🏃‍♂️ Getting Started
+
+1. Clone the repository
+```bash
+git clone https://github.com/kishore-1808/softsell.git
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm run dev
+```
+
+4. Open your browser and visit `http://localhost:5173`
+
+## 📁 Project Structure
+
+- `/src/components` - React components
+  - `Hero.tsx` - Hero section with main call-to-action
+  - `HowItWorks.tsx` - Program process explanation
+  - `WhyChooseUs.tsx` - Benefits and features
+  - `Testimonial.tsx` - Student success stories
+  - `ContactForm.tsx` - Application form
+  - `ChatWidget.tsx` - Interactive chat feature
+
+## 📝 Assignment Requirements Met
+
+- ✅ Responsive design
+- ✅ Modern UI/UX
+- ✅ Interactive components
+- ✅ Form validation
+- ✅ Chat functionality
+- ✅ Smooth animations
+- ✅ Clean code structure
+
+## 🤝 Contributing
+
+This is an assignment project, but suggestions are welcome! Feel free to:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
+## 📄 License
+
+This project is created as part of an internship assignment. All rights reserved.
